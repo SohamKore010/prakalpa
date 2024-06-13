@@ -1,0 +1,9 @@
+The text file that contains the basic commands for the project:
+ 
+Basic Roadmap:
+    1. login
+    2. verify page
+    3. main page
+    4. options:
+        a.
+        
